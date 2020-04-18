@@ -202,7 +202,7 @@
             $kategori = $_POST['kategori'];
             $harga = $_POST['harga'];
 
-            mysqli_query($koneksi,"insert into product values('',$produk,$harga,$kategori,$kasir)");
+            mysqli_query($koneksi,"insert into product values('','".$produk."',$harga,$kategori,$kasir)");
 
         }
     }
