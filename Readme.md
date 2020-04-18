@@ -1,4 +1,6 @@
-Hasil Screenshoot Test Arkademy
-=======
+Jawaban nomor 6a
+================
+![](6/Capture.PNG)
 
-![](6/Capture.png)
+Jawaban nomor 6b
+================
