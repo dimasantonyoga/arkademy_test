@@ -25,3 +25,14 @@ Delete
 ![](6b/Capture3.PNG)
 Edit
 ![](6b/Capture5.PNG)
+
+Jawaban nomor 6c
+================
+Home
+![](6b/Capture.PNG)
+Add
+![](6b/Capture2.PNG)
+Delete
+![](6b/Capture4.PNG)
+Edit
+![](6b/Capture3.PNG)
